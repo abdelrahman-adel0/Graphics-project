@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 63d4026f97d872d3f9f9088ff82b8657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8097216150984028463
+    second: BattleShipSheet_final_Non-transparent_0
+  - first:
+      213: -1353723032871440323
+    second: BattleShipSheet_final_Non-transparent_1
+  - first:
+      213: -394164306112361742
+    second: BattleShipSheet_final_Non-transparent_2
+  - first:
+      213: 1313904296488826070
+    second: BattleShipSheet_final_Non-transparent_3
+  - first:
+      213: -9221427485110844710
+    second: BattleShipSheet_final_Non-transparent_4
+  - first:
+      213: -112972388686513885
+    second: BattleShipSheet_final_Non-transparent_5
+  - first:
+      213: -5965243426479970962
+    second: BattleShipSheet_final_Non-transparent_6
+  - first:
+      213: 6639577005342775229
+    second: BattleShipSheet_final_Non-transparent_7
+  - first:
+      213: 6225126201627566561
+    second: BattleShipSheet_final_Non-transparent_8
+  - first:
+      213: -8592027563566430395
+    second: BattleShipSheet_final_Non-transparent_9
+  - first:
+      213: 7818279593502662874
+    second: BattleShipSheet_final_Non-transparent_10
+  - first:
+      213: -7585035423365384347
+    second: BattleShipSheet_final_Non-transparent_11
+  - first:
+      213: -3991436905040349892
+    second: BattleShipSheet_final_Non-transparent_12
+  - first:
+      213: 3907518352137000014
+    second: BattleShipSheet_final_Non-transparent_13
+  - first:
+      213: -6619537802243186251
+    second: BattleShipSheet_final_Non-transparent_14
+  - first:
+      213: 7324017182922122508
+    second: BattleShipSheet_final_Non-transparent_15
+  - first:
+      213: -5116288180225898330
+    second: BattleShipSheet_final_Non-transparent_16
+  - first:
+      213: 4777370264771687656
+    second: BattleShipSheet_final_Non-transparent_17
+  - first:
+      213: -6815574202506479006
+    second: BattleShipSheet_final_Non-transparent_18
+  - first:
+      213: 6417678393614378006
+    second: BattleShipSheet_final_Non-transparent_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8a03cfc8e0af80800000000000000
+      internalID: -8097216150984028463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 305
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30fe6de21c963de0800000000000000
+      internalID: -1353723032871440323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 305
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac807e6a5a78af0800000000000000
+      internalID: -394164306112361742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 274
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4731d0ffceb3210800000000000000
+      internalID: 1313904296488826070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 243
+        width: 34
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2c1fb3f88e60080800000000000000
+      internalID: -9221427485110844710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 367
+        width: 157
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b9e60634ae6ef0800000000000000
+      internalID: -112972388686513885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 329
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e656de575b2373da0800000000000000
+      internalID: -5965243426479970962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 292
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7de4ebb14842c50800000000000000
+      internalID: 6639577005342775229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 255
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1ecf95c47146650800000000000000
+      internalID: 6225126201627566561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470245147cf2c880800000000000000
+      internalID: -8592027563566430395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 34
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad069650edb108c60800000000000000
+      internalID: 7818279593502662874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 149
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673d8d387a8cb690800000000000000
+      internalID: -7585035423365384347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c357fab48419b98c0800000000000000
+      internalID: -3991436905040349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 111
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4412740d3b4a3630800000000000000
+      internalID: 3907518352137000014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16600d07da224a0800000000000000
+      internalID: -6619537802243186251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052ee4d2d224a560800000000000000
+      internalID: 7324017182922122508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 74
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a80b11e10b4ff8b0800000000000000
+      internalID: -5116288180225898330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4fa38b1f0ac4240800000000000000
+      internalID: 4777370264771687656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 37
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af84f8f573a61a0800000000000000
+      internalID: -6815574202506479006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleShipSheet_final_Non-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 157
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a5162f7c201950800000000000000
+      internalID: 6417678393614378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BattleShipSheet_final_Non-transparent_0: -8097216150984028463
+      BattleShipSheet_final_Non-transparent_1: -1353723032871440323
+      BattleShipSheet_final_Non-transparent_10: 7818279593502662874
+      BattleShipSheet_final_Non-transparent_11: -7585035423365384347
+      BattleShipSheet_final_Non-transparent_12: -3991436905040349892
+      BattleShipSheet_final_Non-transparent_13: 3907518352137000014
+      BattleShipSheet_final_Non-transparent_14: -6619537802243186251
+      BattleShipSheet_final_Non-transparent_15: 7324017182922122508
+      BattleShipSheet_final_Non-transparent_16: -5116288180225898330
+      BattleShipSheet_final_Non-transparent_17: 4777370264771687656
+      BattleShipSheet_final_Non-transparent_18: -6815574202506479006
+      BattleShipSheet_final_Non-transparent_19: 6417678393614378006
+      BattleShipSheet_final_Non-transparent_2: -394164306112361742
+      BattleShipSheet_final_Non-transparent_3: 1313904296488826070
+      BattleShipSheet_final_Non-transparent_4: -9221427485110844710
+      BattleShipSheet_final_Non-transparent_5: -112972388686513885
+      BattleShipSheet_final_Non-transparent_6: -5965243426479970962
+      BattleShipSheet_final_Non-transparent_7: 6639577005342775229
+      BattleShipSheet_final_Non-transparent_8: 6225126201627566561
+      BattleShipSheet_final_Non-transparent_9: -8592027563566430395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
